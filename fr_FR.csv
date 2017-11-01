@@ -6339,8 +6339,8 @@ Options,Options,module,Magento_Multishipping
 "Failed Messages Lifetime","Failed Messages Lifetime",module,Magento_MysqlMq
 "New Messages Lifetime","New Messages Lifetime",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","New Relic Reporting Section",module,Magento_NewRelicReporting
 "New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
@@ -10221,8 +10221,8 @@ Save,Sauvegarder,module,Magento_Staging
 "This update not exists.","This update not exists.",module,Magento_Staging
 "Staging Dashboard","Staging Dashboard",module,Magento_Staging
 "The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
-"Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
+"Future Update in this time range already exists.
+                            Select a different range to add a new Future Update.","Future Update in this time range already exists.
                             Select a different range to add a new Future Update.",module,Magento_Staging
 "Cannot save Update.","Cannot save Update.",module,Magento_Staging
 "Edit Existing Update","Edit Existing Update",module,Magento_Staging
@@ -11049,7 +11049,7 @@ Configuration,Configuration,module,Magento_Theme
 "Reset to Defaults","Reset to Defaults",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
 "Default Description","Description par défaut",module,Magento_Theme
-"Default welcome msg!","Message d'accueil par défaut",module,Magento_Theme
+"Default welcome msg!","Default welcome msg!",module,Magento_Theme
 "Copyright © 2017 Magento, Inc. All rights reserved.","Copyright © 2017 Magento, Inc. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
